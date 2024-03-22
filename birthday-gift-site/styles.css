@@ -1,0 +1,112 @@
+body {
+  /* background-color: #a2d2ff; */
+  /* background:linear-gradient(#a2d2ff, #efb0c9); */
+  background-color: #F5E5D5;
+  /* color: #ffffff; */
+  color: #3D290D;
+  text-align: center;
+  font-family: "Happy Monkey", system-ui, "Courier New", Courier, monospace;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  text-shadow: 0px 0px 1px black;
+}
+
+#bday-age {
+  /* background-color: #efb0c9; */
+  background-color: #3D290D;
+  color: #F5E5D5;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 15px 0 20px 0;
+}
+
+#bday-date {
+  margin: 0;
+  /* background-color: #efb0c9; */
+  background-color: #3D290D;
+  color: #F5E5D5;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#image {
+  height: 200px;
+  width: auto;
+  border-radius: 50%;
+  /* border: 5px solid #efb0c9; */
+  border: 5px solid #3D290D;
+}
+
+#gift-section,
+#gift-section-2,
+#gift-section-3,
+#gift-section-4,
+#gift-section-5 {
+  margin-top: 50px;
+}
+
+.gift-title {
+  margin-bottom: 10px;
+}
+
+.gift-hint {
+  margin-top: 0;
+}
+
+.gift-1-img,
+.gift-2-img,
+.gift-3-img,
+.gift-4-img,
+.gift-5-img {
+  background-image: url("images/gift-cover.jpg");
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  border: 5px solid #ffffff;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+
+#gift-img-5 {
+  height: 200px;
+  background-image: url("images/gift-cover-2.jpg");
+}
+
+.gift-1-img:hover {
+  background-image: url("images/happy.gif");
+}
+
+.gift-2-img:hover {
+  background-image: url("images/hot.gif");
+}
+
+.gift-3-img:hover {
+  background-image: url("images/genius.gif");
+}
+
+.gift-4-img:hover {
+  background-image: url("images/badass.gif");
+}
+
+#gift-img-5:hover {
+    background-image: url("images/cheers.gif");
+  }
+
+ #footer{
+    margin: 50px auto;
+ } 
+
+ #foot-link{
+    color: #3D290D;
+ }
