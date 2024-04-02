@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #020202;
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.main{
+    padding: 30px 50px;
+    background-color: hsla(0, 13%, 93%, 0.5);
+    width: 370px;
+    height: 92vh;
+    margin: 0;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: bolder;
+    text-shadow: 0 0 5px #ffffff;
+}
+
+p{
+    font-size: 25px;
+    text-shadow: 0 0 1px #ffffff;
+}
+
+#blue-border{
+    border-bottom: 3px solid #0ea5e9;
+}
+
+button{
+    background-color: #0ea5e9;
+    color: #ffffff;
+    border: none;
+    padding: 15px 25px;
+    font-weight: bold;
+    font-size: 15px;
+    /* box-shadow: 0 0 2px #ffffff; */
+}
