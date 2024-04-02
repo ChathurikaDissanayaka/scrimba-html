@@ -10,19 +10,19 @@ body{
 .main{
     padding: 30px 50px;
     background-color: hsla(0, 13%, 93%, 0.5);
-    width: 370px;
+    width: 410px;
     height: 92vh;
     margin: 0;
 }
 
 h1{
-    font-size: 60px;
+    font-size: 70px;
     font-weight: bolder;
     text-shadow: 0 0 5px #ffffff;
 }
 
 p{
-    font-size: 25px;
+    font-size: 30px;
     text-shadow: 0 0 1px #ffffff;
 }
 
@@ -36,6 +36,6 @@ button{
     border: none;
     padding: 15px 25px;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
     /* box-shadow: 0 0 2px #ffffff; */
 }
