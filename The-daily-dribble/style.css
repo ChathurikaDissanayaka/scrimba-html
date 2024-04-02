@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    color: #121212;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 380px;
+    border: 3px solid #121212;  
+}
+
+p{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    width: 242px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+    border: 3px solid #121212;
+}
+
+button {
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+a{
+    color: #121212; 
+}
