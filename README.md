@@ -6,4 +6,5 @@
   <li><a href="https://startling-snickerdoodle-24465f.netlify.app/" target="_blank">Space exploration site</a></li>
   <li><a href="https://65fddb373840ca5561d9ae01--celadon-bunny-7d77d7.netlify.app/" target="_blank">Birthday gift site</a></li>
   <li><a href="https://incredible-caramel-702f2f.netlify.app/" target="_blank">The daily dribble newsletter</a></li>
+  <li><a href="https://brilliant-puffpuff-e82ab2.netlify.app/" target="_blank">Amazon product page</a></li>
 </ul>
