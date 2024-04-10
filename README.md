@@ -8,5 +8,5 @@
   <li><a href="https://incredible-caramel-702f2f.netlify.app/" target="_blank">The daily dribble newsletter</a></li>
   <li><a href="https://brilliant-puffpuff-e82ab2.netlify.app/" target="_blank">Amazon product page</a></li>
   <li><a href="" target="_blank">Hometown homepage</a></li>
-  <li><a href="" target="_blank">Web Agency Hero</a></li>
+  <li><a href="https://6616cdf48e9d7c1fafb0a936--sprightly-hamster-9dea4a.netlify.app/" target="_blank">Web Agency Hero</a></li>
 </ul>
