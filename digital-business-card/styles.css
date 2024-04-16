@@ -5,26 +5,32 @@ body {
 }
 
 .card{
-    padding: 30px 20px;
+    padding: 40px 30px;
     margin: 200px auto 0 auto;
-    width: 400px;
+    width: 460px;
     background-color:cornflowerblue;
     display: flex;
     justify-content: space-around;
     text-align: center;
+    border-bottom: 5px solid burlywood;
 }
 
 .img{
-    width: 150px;
-    height: 150px;
-    /* border-radius: 10px; */
+    width: 200px;
+    height: 200px;
 }
 
 .details{
+    margin-top: 20px;
+    margin-left: 20px;
     display: block;
-    color: #04080F;
+    color: cornsilk;
 }
 
-.text-1{
-    color: #507DBC;
+.details h3{
+    font-size: 25px;
+}
+
+.details p{
+    color: rgba(255, 248, 220, 0.727);
 }
