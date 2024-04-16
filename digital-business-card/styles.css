@@ -7,7 +7,6 @@ body {
 .card{
     padding: 30px 20px;
     margin: 200px auto 0 auto;
-    /* border-radius: 10px; */
     width: 400px;
     background-color:cornflowerblue;
     display: flex;
@@ -18,7 +17,7 @@ body {
 .img{
     width: 150px;
     height: 150px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
 }
 
 .details{
