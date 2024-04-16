@@ -1,14 +1,15 @@
 body {
     margin: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:aliceblue;
 }
 
 .card{
-    padding: 20px;
-    margin: 0 auto 0 auto;
-    border-radius: 10px;
+    padding: 30px 20px;
+    margin: 200px auto 0 auto;
+    /* border-radius: 10px; */
     width: 400px;
-    background-color: #DAE3E5;
+    background-color:cornflowerblue;
     display: flex;
     justify-content: space-around;
     text-align: center;
