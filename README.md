@@ -1,4 +1,4 @@
-# Projects of "Learn HTML and CSS" course in Scrimba
+# Projects from Learn HTML and CSS with Scrimba course
 
 <ul>
   <li><a href="https://brilliant-brigadeiros-a9f5a9.netlify.app/" target="_blank">Google clone</a></li>
