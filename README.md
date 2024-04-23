@@ -1,4 +1,6 @@
 # Projects from Learn HTML and CSS with Scrimba course
+## Web dev basics
+### Learn the very basics of HTML and CSS. Start creating layouts, and style them how you want.
 
 <ul>
   <li><a href="https://brilliant-brigadeiros-a9f5a9.netlify.app/" target="_blank">Google clone</a></li>
