@@ -1,4 +1,4 @@
-# Projects from Learn HTML and CSS with Scrimba course
+# Module Two of The Frontend Developer Career Path in Scrimba 
 ## Web dev basics
 ### Learn the very basics of HTML and CSS. Start creating layouts, and style them how you want.
 
