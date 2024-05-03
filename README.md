@@ -1,8 +1,10 @@
-# Projects of "Learn HTML and CSS" course in Scrimba
+# Module Two of The Frontend Developer Career Path in Scrimba 
+## Web dev basics
+### Learn the very basics of HTML and CSS. Start creating layouts, and style them how you want.
 
 <ul>
   <li><a href="https://brilliant-brigadeiros-a9f5a9.netlify.app/" target="_blank">Google clone</a></li>
-  <li><a href="https://nimble-syrniki-ed0368.netlify.app/" target="_blank">Digital business card</a></li>
+  <li><a href="https://661ebacc81320757713be9c0--tiny-tulumba-20da99.netlify.app/" target="_blank">Digital business card</a></li>
   <li><a href="https://startling-snickerdoodle-24465f.netlify.app/" target="_blank">Space exploration site</a></li>
   <li><a href="https://65fddb373840ca5561d9ae01--celadon-bunny-7d77d7.netlify.app/" target="_blank">Birthday gift site</a></li>
   <li><a href="https://incredible-caramel-702f2f.netlify.app/" target="_blank">The daily dribble newsletter</a></li>
