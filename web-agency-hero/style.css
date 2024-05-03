@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     color: #020202;
-    background-image: url("img/background.jpg");
+    background-image: url("img/faded-office.png");
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
@@ -9,8 +9,6 @@ body{
 
 .main{
     padding: 30px 50px;
-    background-color: hsla(0, 13%, 93%, 0.5);
-    width: 410px;
     height: 92vh;
     margin: 0;
 }
