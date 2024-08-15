@@ -1,5 +1,5 @@
-# Module Two of The Frontend Developer Career Path in Scrimba 
-## Projects
+# Learn HTML and CSS on Scrimba 
+## Projects (including some HTML and CSS projects of the Frontend Developer Career Path)
 
 <ul>
   <li><a href="https://brilliant-brigadeiros-a9f5a9.netlify.app/" target="_blank">Google clone</a></li>
