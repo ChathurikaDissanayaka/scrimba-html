@@ -1,6 +1,5 @@
 # Module Two of The Frontend Developer Career Path in Scrimba 
-## Web dev basics
-### Learn the very basics of HTML and CSS. Start creating layouts, and style them how you want.
+## Projects
 
 <ul>
   <li><a href="https://brilliant-brigadeiros-a9f5a9.netlify.app/" target="_blank">Google clone</a></li>
