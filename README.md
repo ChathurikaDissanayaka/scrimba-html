@@ -1,5 +1,4 @@
-# Learn HTML and CSS on Scrimba 
-## Projects (including some HTML and CSS projects of the Frontend Developer Career Path)
+# Projects from 'Learn HTML and CSS' and the 'Frontend Developer Career Path' courses on Scrimba 
 
 <ul>
   <li><a href="https://brilliant-brigadeiros-a9f5a9.netlify.app/" target="_blank">Google clone</a></li>
