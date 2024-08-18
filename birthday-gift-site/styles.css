@@ -1,8 +1,5 @@
 body {
-  /* background-color: #a2d2ff; */
-  /* background:linear-gradient(#a2d2ff, #efb0c9); */
   background-color: #F5E5D5;
-  /* color: #ffffff; */
   color: #3D290D;
   text-align: center;
   font-family: "Happy Monkey", system-ui, "Courier New", Courier, monospace;
@@ -23,7 +20,6 @@ p {
 }
 
 #bday-age {
-  /* background-color: #efb0c9; */
   background-color: #3D290D;
   color: #F5E5D5;
   padding: 5px 10px;
@@ -33,7 +29,6 @@ p {
 
 #bday-date {
   margin: 0;
-  /* background-color: #efb0c9; */
   background-color: #3D290D;
   color: #F5E5D5;
   padding: 5px 10px;
@@ -44,7 +39,6 @@ p {
   height: 200px;
   width: auto;
   border-radius: 50%;
-  /* border: 5px solid #efb0c9; */
   border: 5px solid #3D290D;
 }
 
