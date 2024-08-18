@@ -2,25 +2,12 @@ body {
     font-family: Arial, Helvetica, sans-serif
 }
 
-#breadcrumbs{
-    color: #565959;
-}
-
-.title {
-    font-weight: lighter;
-}
-
-.main-img {
-    box-shadow: 0px 2px 5px lightgray;
-    width: 300px;
+h1{
+    font-size: 2rem;
 }
 
 a{
     color: #007185;
-}
-
-#rating{
-    width: 100px;
 }
 
 .container {
@@ -34,4 +21,25 @@ a{
 
 .metadata{
     padding-left: 20px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
+}
+
+.rating{
+    width: 100px;
+}
+
+.breadcrumbs{
+    color: #565959;
+}
+
+.author{
+    font-size: 1rem;
 }
